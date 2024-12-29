@@ -1,4 +1,4 @@
-    **** Check QCrypto_Showcase.mp4 for a small video showcase of the program. ****
+              **** Check QCrypto_Showcase.mp4 for a small video showcase of the program. ****
 
 ___________________________________
 ENCRYPT ANY DOCUMENT
